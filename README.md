@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on c++/ java/ python projects
 - 📫 How to reach me,
 Drop message at, whosankitsingh@gmail.com
-- Favorite emoji: Cookie 🍪
+- Favorite emoji: Maple Leaf 🍁
 
 <!---
 TheDev05/TheDev05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
