@@ -4,7 +4,7 @@
 </div>  
   
 <br>
-<div align="center"><b> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! I'm Ankit Devanshi, a CsE UnderGrad. student from Chandigarh University</b> 😊</div>  
+<div align="center"><h3> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! I'm Ankit Devanshi, a CsE UnderGrad. student from Chandigarh University.<h3></div>  
 <br>
   
 - 🔭 I’m addicted to competative programming👨‍💻.
@@ -16,7 +16,7 @@
 - 🌻 Aspire to be into future SDE roles! ❤
   
 
-- ⚡ Fun fact: I like to write stories.
+- ⚡ Fun fact: I like to write stories, Fav emoji: Sunflower🌻 .
   
   
 <br/>  
@@ -50,10 +50,10 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats:
 <div align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thedev05&theme=monokai-metallian&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedev05&layout=compact&hide=html,C&langs_count=6" />
+<!--   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedev05&layout=compact&hide=html,C&langs_count=6" /> -->
 </div>
 
 
