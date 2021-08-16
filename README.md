@@ -7,13 +7,13 @@
 <div align="center"><h3> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! I'm Ankit Devanshi, a CsE UnderGrad. student from Chandigarh University.<h3></div>  
 <br>
   
-- 🔭 I’m addicted to competative programming👨‍💻.
+- 🔭 I’m addicted to learning new skills.
   
 
-- 🌱 I’m currently diving deep into web development and DSA.
+- 🌱 I’m currently diving deep into web development, Java and DSA.
   
 
-- 🌻 Aspire to be into future SDE roles! ❤
+- 🌻 Aspire to be into future Dev. roles! ❤
   
 
 - ⚡ Fun fact: I like to write stories, Fav emoji: Sunflower🌻 .
