@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=Gonna+become+Ninja+Developer+One+Day+!" align="center" height="250px"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2351FF30F3&size=18&center=true&lines=Gonna+become+Ninja+Programmer+One+Day+!" align="center" height="250px"/>
 </div>  
   
 <br>
