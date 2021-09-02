@@ -16,7 +16,7 @@
 - 🌻 Aspire to be into future Dev. roles! ❤
   
 
-- ⚡ Fun fact: I like to write stories, Fav emoji: Sunflower🌻 .
+- ⚡ Fun fact: I like to write stories, watching singing contests; Fav emoji: Sunflower🌻 .
   
   
 <br/>  
