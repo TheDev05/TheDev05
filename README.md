@@ -4,19 +4,19 @@
 </div>  
   
 <br>
-<div align="center"><h3> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! I'm Ankit Devanshi, a CsE UnderGrad. student from Chandigarh University.<h3></div>  
+<div align="center"><h4> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">&nbsp Hola! I'm Ankit.<h4></div>  
 <br>
   
 - 🔭 I’m addicted to learning new skills.
   
 
-- 🌱 I’m currently diving deep into web development, Java and DSA.
+- 🌱 I’m currently diving deep into developments.
   
 
 - 🌻 Aspire to be into future Dev. roles! ❤
   
 
-- ⚡ Fun fact: I like to write stories, watching singing contests; Fav emoji: Sunflower🌻 .
+- ⚡ Fun fact: I like to write stories & Binge-watching movies.
   
   
 <br/>  
@@ -41,11 +41,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/thedev05" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/thedev05" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> 
 </div>  
 <br/>  
 
